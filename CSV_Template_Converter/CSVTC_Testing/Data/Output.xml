@@ -1,0 +1,52 @@
+<output>
+
+<Person>
+    <Vorname>Max</Vorname>
+    <Nachname>Mustermann</Nachname>
+    <Geburtsdatum>01.01.1980</Geburtsdatum>
+    <Adresse>Musterstraße 123</Adresse>
+    <Stadt>Musterstadt</Stadt>
+    <PLZ>12345</PLZ>
+    <Telefon>01234 567890</Telefon>
+</Person>
+
+<Person>
+    <Vorname>Anna</Vorname>
+    <Nachname>Musterfrau</Nachname>
+    <Geburtsdatum>15.05.1992</Geburtsdatum>
+    <Adresse>Beispielweg 456</Adresse>
+    <Stadt>Beispielstadt</Stadt>
+    <PLZ>67890</PLZ>
+    <Telefon>02345 678901</Telefon>
+</Person>
+
+<Person>
+    <Vorname>Peter</Vorname>
+    <Nachname>Schmidt</Nachname>
+    <Geburtsdatum>20.09.1985</Geburtsdatum>
+    <Adresse>Schlossallee 789</Adresse>
+    <Stadt>Stadtburg</Stadt>
+    <PLZ>23456</PLZ>
+    <Telefon>03456 789012</Telefon>
+</Person>
+
+<Person>
+    <Vorname>Sandra</Vorname>
+    <Nachname>Wagner</Nachname>
+    <Geburtsdatum>08.11.1977</Geburtsdatum>
+    <Adresse>Parkweg 987</Adresse>
+    <Stadt>Dorfheim</Stadt>
+    <PLZ>34567</PLZ>
+    <Telefon>04567 890123</Telefon>
+</Person>
+
+<Person>
+    <Vorname>Michaela</Vorname>
+    <Nachname>Koch</Nachname>
+    <Geburtsdatum>03.04.1990</Geburtsdatum>
+    <Adresse>Bachgasse 321</Adresse>
+    <Stadt>Talstadt</Stadt>
+    <PLZ>45678</PLZ>
+    <Telefon>05678 901234</Telefon>
+</Person>
+</output>

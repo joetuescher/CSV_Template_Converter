@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSVTC_Testing/1.0.0": {
+        "runtime": {
+          "CSVTC_Testing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSVTC_Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Input.csv" />
+    <None Remove="Data\Template.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\Template.xml" />
+    <Resource Include="Data\Input.csv" />
+  </ItemGroup>
+
+</Project>

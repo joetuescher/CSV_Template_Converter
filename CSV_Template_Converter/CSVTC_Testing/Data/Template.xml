@@ -1,0 +1,10 @@
+﻿
+<Person>
+    <Vorname>{{Vorname}}</Vorname>
+    <Nachname>{{Nachname}}</Nachname>
+    <Geburtsdatum>{{Geburtsdatum}}</Geburtsdatum>
+    <Adresse>{{Adresse}}</Adresse>
+    <Stadt>{{Stadt}}</Stadt>
+    <PLZ>{{PLZ}}</PLZ>
+    <Telefon>{{Telefon}}</Telefon>
+</Person>

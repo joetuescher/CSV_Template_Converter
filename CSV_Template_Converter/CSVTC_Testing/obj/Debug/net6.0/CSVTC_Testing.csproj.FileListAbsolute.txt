@@ -1,0 +1,14 @@
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.AssemblyInfoInputs.cache
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.AssemblyInfo.cs
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.csproj.CoreCompileInputs.cache
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\bin\Debug\net6.0\CSVTC_Testing.exe
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\bin\Debug\net6.0\CSVTC_Testing.deps.json
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\bin\Debug\net6.0\CSVTC_Testing.runtimeconfig.json
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\bin\Debug\net6.0\CSVTC_Testing.dll
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\bin\Debug\net6.0\CSVTC_Testing.pdb
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.dll
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\refint\CSVTC_Testing.dll
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.pdb
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\CSVTC_Testing.genruntimeconfig.cache
+D:\Projects\Alex\CSV_Template_Converter\CSV_Template_Converter\CSVTC_Testing\obj\Debug\net6.0\ref\CSVTC_Testing.dll
