@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Input.csv" />
+    <None Remove="Data\Template.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\Input.csv" />
+    <Resource Include="Data\Template.xml" />
+  </ItemGroup>
+
+</Project>

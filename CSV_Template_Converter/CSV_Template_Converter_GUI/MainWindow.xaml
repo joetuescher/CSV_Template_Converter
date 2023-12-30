@@ -1,0 +1,46 @@
+﻿<Window x:Class="CSV_Template_Converter_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSV_Template_Converter_GUI"
+        mc:Ignorable="d"
+        Title="CSV Template Converter" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="24"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel 
+            Grid.ColumnSpan="2"
+            Background="LightBlue"
+            Orientation="Horizontal"
+            >
+            <Button Width="200" Click="SelectSource">
+                Source
+            </Button>
+            <Button Width="200" Click="SelectTemplate">
+                Template
+            </Button>
+        </StackPanel>
+        <TextBlock
+            Grid.Row="1"
+            Background="LightGray"
+            Foreground="Black"
+            x:Name="SourceTextBlock"
+            ScrollViewer.CanContentScroll="True"
+            ScrollViewer.HorizontalScrollBarVisibility="Auto"
+            ScrollViewer.VerticalScrollBarVisibility="Auto"
+            />
+
+        <Button Grid.ColumnSpan="2" Grid.Row="3" Margin="2" Click="Save">
+            Save
+        </Button>
+    </Grid>
+</Window>

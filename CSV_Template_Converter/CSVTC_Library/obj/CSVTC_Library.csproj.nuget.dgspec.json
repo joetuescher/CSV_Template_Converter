@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Alex\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj": {}
+    "C:\\Users\\Joe\\Desktop\\software\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Alex\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj": {
+    "C:\\Users\\Joe\\Desktop\\software\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Alex\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj",
+        "projectUniqueName": "C:\\Users\\Joe\\Desktop\\software\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj",
         "projectName": "CSVTC_Library",
-        "projectPath": "D:\\Projects\\Alex\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj",
-        "packagesPath": "C:\\Users\\joe01\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Alex\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\obj\\",
+        "projectPath": "C:\\Users\\Joe\\Desktop\\software\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\CSVTC_Library.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joe\\Desktop\\software\\CSV_Template_Converter\\CSV_Template_Converter\\CSVTC_Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joe01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
